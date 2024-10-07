@@ -1,0 +1,90 @@
+commit 04d757f5c8bebf35ee1e32b813df53d5fb8d5c81
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 13:24:19 2024 +0100
+
+    Corrected someotherfile.sh
+
+commit 18849f76d3fb012431e7e816cb8a905e827e13a8
+Merge: ebdfb63 cbe774d
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 13:21:56 2024 +0100
+
+    There were conflicts with someotherfile.sh, kept all changes.
+
+commit cbe774d3a0d6e45dd2603f6feb2a6c645463073d
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 13:19:02 2024 +0100
+
+    Final version of the someotherfile.sh shell script prior to merge
+
+commit ebdfb634d2c78daa47373296c29ee067ddf68cd5
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 13:05:01 2024 +0100
+
+    Updated contents of tar, coolscript
+
+commit 08088888e4853817ae238b019ed4c4997d32450b
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 13:03:14 2024 +0100
+
+    I am not sure cool script is actually any good.
+
+commit ba03a95f23750fd0f75ce6505e7a7358dec476cf
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 12:59:23 2024 +0100
+
+    Added my_cool_script
+
+commit 2665db90b45d6d0620e39cfab1987e86993aa9a1
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 12:57:54 2024 +0100
+
+    Third version of the someotherfile.sh shell script
+
+commit e8f1cf43b54edd94de6737e5dfd68b04d6f1149d
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 12:56:01 2024 +0100
+
+    Updated version of tar
+
+commit 2b8db6d5f032f778484c12967c186126efa4b65d
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 12:55:24 2024 +0100
+
+    Second version of the someotherfile.sh shell script
+
+commit eee39909696d43354149cb74a6269de3ad85f661
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 12:54:03 2024 +0100
+
+    Added the someotherfile.sh shell script
+
+commit 1961b68dc18a412ddd91227555eccf9a4a96d113
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 12:51:49 2024 +0100
+
+    Additional motif files, and updated tar file.
+
+commit 1bf92d25afad66edb35a81ebde33be04c8b19f2a
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 12:46:56 2024 +0100
+
+    CodeFiles.tar added to CodeFIles all done.
+
+commit 6a60cc5f396a0df6f6d35f3012417171af9048a8
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Sun Oct 6 12:46:14 2024 +0100
+
+    CodeFiles all done and tar zipped
+
+commit 751d77800d48ad8d886aad4b5d4c23b660dd99d0
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Fri Oct 4 19:30:00 2024 +0100
+
+    Added after Lecture 06 but performing Lecture 04
+
+commit 1c7ed6e6c43e50e155acf2492ab133a9f7574a2e
+Author: Bxxxxxx-2024 <email_not_provided>
+Date:   Fri Oct 4 19:28:03 2024 +0100
+
+    First file added
