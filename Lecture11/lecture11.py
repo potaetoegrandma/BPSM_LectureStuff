@@ -13,6 +13,7 @@ count_T=dna_seq.count('T')
 #count A+T
 count_AT= ((int(count_A) + int(count_T))/dna_seq_length)
 #output
+print("###Counts of A and T and A+T###\n","Count_A:", count_A,"\n", "Count_T:", count_T,"\n", "Count A + T:",(int(count_A) + int(count_T)))
 print ("###Calculating A+T content###\n","The A+T content for the short sequence", dna_seq, "is:", count_AT)
 print("The A+T content in percentage is:", count_AT*100, "percent(%)")
 
